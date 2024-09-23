@@ -1,0 +1,19 @@
+,Term,Concept_Type,Seminatic_type
+0,unchanged,No status change,Finding
+1,likely,Probable diagnosis,Finding
+2,ho,History of present illness (finding),Finding
+3,Major,Severe (severity modifier),Finding
+4,severe,Severe (severity modifier),Finding
+5,sharp,Sharp sensation quality,Finding
+6,negative,Negative,Finding
+7,hypertensive,Hypertensive (finding),Finding
+8,mild,Mild Adverse Event,Finding
+9,much,Much,Finding
+10,offer,Offered,Finding
+11,lesion,Lesion,Finding
+12,splenomegaly,Splenomegaly,Finding
+13,ambulate,Ambulate,Finding
+14,mass,Mass of body structure,Finding
+15,smoker,Smoker,Finding
+16,post,Fasting,Finding
+17,coherent,Coherent,Finding

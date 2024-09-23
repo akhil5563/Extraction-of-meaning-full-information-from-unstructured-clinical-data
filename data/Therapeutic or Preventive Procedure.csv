@@ -1,0 +1,12 @@
+,Term,Concept_Type,Seminatic_type
+0,ligation,Ligation,Therapeutic or Preventive Procedure
+1,transfusion,Blood Transfusion,Therapeutic or Preventive Procedure
+2,procedure,Interventional procedure,Therapeutic or Preventive Procedure
+3,drain,Drainage procedure,Therapeutic or Preventive Procedure
+4,replacement,Surgical Replantation,Therapeutic or Preventive Procedure
+5,duodenotomy,Incision of duodenum,Therapeutic or Preventive Procedure
+6,transplant,Transplantation,Therapeutic or Preventive Procedure
+7,rehab,Rehabilitation therapy,Therapeutic or Preventive Procedure
+8,laparotomy,Laparotomy,Therapeutic or Preventive Procedure
+9,incision,Surgical incisions,Therapeutic or Preventive Procedure
+10,sliding scale,sliding scale,Therapeutic or Preventive Procedure

@@ -1,0 +1,24 @@
+,Term,Concept_Type,Seminatic_type
+0,next,Adjacent,Spatial Concept
+1,intrahepatic,intrahepatic,Spatial Concept
+2,middle,Middle,Spatial Concept
+3,focal,Focal,Spatial Concept
+4,perihepatic,Perihepatic,Spatial Concept
+5,quadrant,Quadrant,Spatial Concept
+6,extrahepatic,Extrahepatic,Spatial Concept
+7,proximal,Proximal,Spatial Concept
+8,distal,Distal (qualifier value),Spatial Concept
+9,upper,Upper,Spatial Concept
+10,duplex,Duplex,Spatial Concept
+11,peripheral,Peripheral,Spatial Concept
+12,coil,Coils (formation),Spatial Concept
+13,posterior,Dorsal,Spatial Concept
+14,diffuse,Diffuse,Spatial Concept
+15,home,Home environment,Spatial Concept
+16,mid,Middle,Spatial Concept
+17,position,Positioning Attribute,Spatial Concept
+18,po,Oral,Spatial Concept
+19,site,Site,Spatial Concept
+20,gauge,Gauges (qualifier value),Spatial Concept
+21,line,Linear,Spatial Concept
+22,portion,Part,Spatial Concept

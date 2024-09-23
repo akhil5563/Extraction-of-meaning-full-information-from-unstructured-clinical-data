@@ -1,0 +1,16 @@
+,Term,Concept_Type,Seminatic_type
+0,significant,Statistical Significance,Quantitative Concept
+1,small,Small,Quantitative Concept
+2,third,Third,Quantitative Concept
+3,common,Common (qualifier value),Quantitative Concept
+4,first,First (number),Quantitative Concept
+5,mom,Multiple of the median,Quantitative Concept
+6,velocity,Velocity,Quantitative Concept
+7,multiple,Numerous,Quantitative Concept
+8,inch,Inch Unit of Length,Quantitative Concept
+9,unit,Unit,Quantitative Concept
+10,amount,Quantity,Quantitative Concept
+11,dose,Dosage,Quantitative Concept
+12,measure,Measures,Quantitative Concept
+13,count,Count,Quantitative Concept
+14,range,Range,Quantitative Concept

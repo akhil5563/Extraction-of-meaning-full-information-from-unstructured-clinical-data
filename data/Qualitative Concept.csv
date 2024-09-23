@@ -1,0 +1,27 @@
+,Term,Concept_Type,Seminatic_type
+0,sure,Certain (qualifier value),Qualitative Concept
+1,typical,Usual,Qualitative Concept
+2,usual,Usual,Qualitative Concept
+3,potential,Potential,Qualitative Concept
+4,cirrhotic,Cirrhotic,Qualitative Concept
+5,high,High,Qualitative Concept
+6,new,New,Qualitative Concept
+7,paternal,Paternal (qualifier),Qualitative Concept
+8,stable,Stable status,Qualitative Concept
+9,inaccurate,Inaccurate,Qualitative Concept
+10,ductal,Ductal,Qualitative Concept
+11,specific,Specific qualifier value,Qualitative Concept
+12,heterogeneous,Heterogeneity,Qualitative Concept
+13,active,Active,Qualitative Concept
+14,intact,Intact,Qualitative Concept
+15,similar,Similarity,Qualitative Concept
+16,good,Good,Qualitative Concept
+17,Last,Last,Qualitative Concept
+18,peak,Peak level,Qualitative Concept
+19,variation,Variant,Qualitative Concept
+20,decrease,Reduced,Qualitative Concept
+21,detail,Details,Qualitative Concept
+22,nt,No treatment required for,Qualitative Concept
+23,stricture,Stenosis Morphology,Qualitative Concept
+24,status,Status,Qualitative Concept
+25,vasculature,Blood supply aspects,Qualitative Concept

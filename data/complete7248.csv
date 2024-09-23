@@ -1,0 +1,370 @@
+Seminatic_type,,Term,Concept_Type
+Activity,211,check,Checking (action)
+Age Group,240,child,Child
+"Amino Acid, Peptide, or Protein",161,alk,anaplastic lymphoma kinase
+"Amino Acid, Peptide, or Protein",219,glargine,insulin glargine
+"Amino Acid, Peptide, or Protein",250,insulin,Insulin
+"Amino Acid, Peptide, or Protein",278,albumin,Albumins
+"Amino Acid, Peptide, or Protein",319,humalog,Humalog
+Biologically Active Substance,224,sodium,sodium
+Biologically Active Substance,342,magnesium,magnesium
+Biomedical Occupation or Discipline,113,surgery,Surgery specialty
+Biomedical or Dental Material,307,baseline,BaseLine dental cement
+Body Location or Region,93,abdominal,Abdomen
+Body Location or Region,106,hepatic,Hepatic
+Body Location or Region,141,ankle,Ankle
+Body Location or Region,142,dos,Back
+Body Location or Region,182,neck,Neck
+Body Location or Region,194,portal,Hepatic
+Body Location or Region,204,bil,Buttocks
+Body Location or Region,215,head,Head
+Body Location or Region,333,abd,Abdomen
+"Body Part, Organ, or Organ Component",28,arterial,Arteries
+"Body Part, Organ, or Organ Component",42,duodenal,Duodenum
+"Body Part, Organ, or Organ Component",48,pancreatic,Pancreas
+"Body Part, Organ, or Organ Component",72,main,Hand
+"Body Part, Organ, or Organ Component",111,duct,Duct (organ) structure
+"Body Part, Organ, or Organ Component",125,organ,Organ
+"Body Part, Organ, or Organ Component",146,gallbladder,Gallbladder
+"Body Part, Organ, or Organ Component",155,radial,Structure of radial artery
+"Body Part, Organ, or Organ Component",176,bowel,Intestines
+"Body Part, Organ, or Organ Component",195,tail,Tail
+"Body Part, Organ, or Organ Component",257,liver,Liver
+"Body Part, Organ, or Organ Component",259,body,Structure of body of caudate nucleus
+"Body Part, Organ, or Organ Component",296,spleen,Spleen
+"Body Part, Organ, or Organ Component",311,vein,Veins
+"Body Part, Organ, or Organ Component",312,duodenum,Duodenum
+"Body Part, Organ, or Organ Component",318,carotid,Carotid Arteries
+"Body Part, Organ, or Organ Component",332,throat,Pharyngeal structure
+"Body Part, Organ, or Organ Component",349,artery,Arteries
+Body Substance,29,Mucous,Mucous body substance
+Body Substance,98,urine,Urine
+Body Substance,114,sweat,Sweat
+Body Substance,196,breath,Breath
+Body Substance,218,blood,Blood
+Body Substance,238,fluid,Body Fluids
+Body Substance,280,skin,Skin Specimen
+Body Substance,331,bile,Bile fluid
+Body Substance,366,discharge,Body Fluid Discharge
+Cell,267,cell,Cells
+Chemical Viewed Structurally,314,gas,Gases
+Clinical Attribute,13,undetectable,Undetectable
+Clinical Attribute,237,resp,Respiratory rate
+Clinical Attribute,289,note,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider}
+Conceptual Entity,126,variability,Variability
+Conceptual Entity,185,output,system output
+Daily or Recreational Activity,131,box,Boxing (sports activity)
+Daily or Recreational Activity,203,meal,Meal (occasion for eating)
+Diagnostic Procedure,89,scan,Radionuclide Imaging
+Diagnostic Procedure,122,endoscopy,Endoscopy (procedure)
+Diagnostic Procedure,186,biopsy,Biopsy
+Diagnostic Procedure,327,ultrasound,Ultrasonography
+Disease or Syndrome,8,varix,Varicosity
+Disease or Syndrome,12,encephalopathy,Encephalopathies
+Disease or Syndrome,45,thyromegaly,Goiter
+Disease or Syndrome,92,syndrome,Syndrome
+Disease or Syndrome,147,gallstone,Cholelithiasis
+Disease or Syndrome,165,bacteremia,Bacteremia
+Disease or Syndrome,192,hyperglycemia,Hyperglycemia
+Disease or Syndrome,193,zoster,Herpes zoster disease
+Disease or Syndrome,205,hematuria,Hematuria
+Disease or Syndrome,207,anemia,Anemia
+Disease or Syndrome,217,esophageal,Esophageal Diseases
+Disease or Syndrome,228,gastritis,Gastritis
+Disease or Syndrome,232,pancytopenia,Pancytopenia
+Disease or Syndrome,239,ate,Ataxia Telangiectasia
+Disease or Syndrome,249,hepatitis,Hepatitis
+Disease or Syndrome,270,disease,Disease
+Disease or Syndrome,275,cirrhosis,Liver Cirrhosis
+Disease or Syndrome,316,hypothyroidism,Hypothyroidism
+Disease or Syndrome,335,hematochezia,Hematochezia
+Educational Activity,140,instruction,Educational process of instructing
+"Element, Ion, or Isotope",255,pt,platinum
+Entity,301,product,product
+Eukaryote,245,spider,Spiders
+Family Group,127,aunt,Aunt
+Family Group,253,father,Father (person)
+Family Group,309,mother,Mother (person)
+Finding,2,unchanged,No status change
+Finding,18,likely,Probable diagnosis
+Finding,32,ho,History of present illness (finding)
+Finding,40,Major,Severe (severity modifier)
+Finding,51,severe,Severe (severity modifier)
+Finding,59,sharp,Sharp sensation quality
+Finding,74,negative,Negative
+Finding,81,hypertensive,Hypertensive (finding)
+Finding,82,mild,Mild Adverse Event
+Finding,94,much,Much
+Finding,169,offer,Offered
+Finding,212,lesion,Lesion
+Finding,233,splenomegaly,Splenomegaly
+Finding,248,ambulate,Ambulate
+Finding,272,mass,Mass of body structure
+Finding,282,smoker,Smoker
+Finding,339,post,Fasting
+Finding,345,coherent,Coherent
+Food,62,med,Honey
+Food,150,food,Food
+Food,199,butter,Butter
+Food,276,pain,Bread
+Functional Concept,19,additional,Additional
+Functional Concept,25,give,Give - dosing instruction imperative
+Functional Concept,27,biliary,Biliary
+Functional Concept,37,viral,Viral
+Functional Concept,71,interactive,Interaction
+Functional Concept,75,available,Availability of
+Functional Concept,77,supple,Supple
+Functional Concept,99,due,Due to
+Functional Concept,134,limit,Limited (extensiveness)
+Functional Concept,136,requirement,Requirement
+Functional Concept,138,refer,Referring
+Functional Concept,167,reaction,Reaction
+Functional Concept,188,technique,Techniques
+Functional Concept,262,use,utilization qualifier
+Functional Concept,323,change,Changing
+Functional Concept,328,etiology,Etiology aspects
+Functional Concept,343,cause,Etiology aspects
+Gene or Genome,317,yo,CDR2 gene
+Geographic Area,78,nv,Nevada <Geographic Area>
+Geographic Area,124,arm,Armenia
+Geographic Area,152,mg,Madagascar
+Geographic Area,162,moon,Moon
+Geographic Area,168,nl,Netherlands
+Geographic Area,175,nd,North Dakota (geographic location)
+Geographic Area,229,mL,Mali
+Geographic Area,251,cm,Cameroon
+Geographic Area,306,state,Geographic state
+Geographic Area,329,ml,Mali
+Hazardous or Poisonous Substance,351,co,carbon monoxide
+Health Care Activity,35,pulse,Pulse taking
+Health Care Activity,63,retrieval,Retrieval - action
+Health Care Activity,70,examination,Physical Examination
+Health Care Activity,181,followup,follow-up
+Health Care Activity,221,titrate,Titrate
+Health Care Activity,222,monitoring,Preventive monitoring
+Health Care Activity,242,admission,Hospital admission
+Health Care Related Organization,337,lab,Laboratory
+Health Care Related Organization,364,hospital,Hospitals
+Human,41,human,Homo sapiens
+Human-caused Phenomenon or Process,288,safety,Safety
+Idea or Concept,33,consistent,Consistent with
+Idea or Concept,49,Clear,Remote control command - Clear
+Idea or Concept,96,clear,Remote control command - Clear
+Idea or Concept,123,load,Load - Remote control command
+Idea or Concept,209,culture,Anthropological Culture
+Idea or Concept,225,life,Life
+Idea or Concept,261,concern,Concern
+Idea or Concept,350,supply,supply aspects
+Immunologic Factor,191,antibody,Antibodies
+Immunologic Factor,244,allergen,Allergens
+Injury or Poisoning,102,overdose,Drug Overdose
+Injury or Poisoning,293,excoriation,Excoriation
+Intellectual Product,0,summary,summary - ActRelationshipSubset
+Intellectual Product,119,script,Script
+Intellectual Product,198,report,Report (document)
+Intellectual Product,202,index,Indexes
+Intellectual Product,254,Name,Name
+Intellectual Product,322,protocol,Protocols documentation
+Intellectual Product,324,patent,Legal patent
+Intellectual Product,340,plan,Map
+Laboratory Procedure,91,phos,Phosphate measurement
+Laboratory Procedure,268,test,Laboratory Procedures
+Laboratory Procedure,300,section,Sectioning technique
+Laboratory Procedure,348,gtt,Glucose tolerance test
+Manufactured Object,88,bottle,"Bottle, device"
+Manufactured Object,110,wall,Walls of a building
+Manufactured Object,321,shower,Shower (physical object)
+Medical Device,90,needle,Needle device
+Medical Device,158,respiratory,Mechanical Ventilator
+Medical Device,183,stent,"Stent, device"
+Medical Device,190,scale,Weight measurement scales
+Medical Device,235,lift,Hoist device
+Medical Device,320,syrinx,Syringes
+Mental Process,60,pleasant,Pleasant
+Mental Process,295,feel,Feelings
+Mental Process,359,call,Decision
+Mental Process,360,gram,Grief reaction
+Mental Process,365,transfer,Psychological Transfer
+Natural Phenomenon or Process,7,dry,Desiccation
+Natural Phenomenon or Process,148,wave,wave - physical agent
+Natural Phenomenon or Process,304,flow,Flow
+Natural Phenomenon or Process,353,waveform,Waveforms
+Neoplastic Process,9,secondary,Neoplasm Metastasis
+Neoplastic Process,308,angioma,Hemangioma
+Neoplastic Process,367,bl,Burkitt Lymphoma
+"Nucleic Acid, Nucleoside, or Nucleotide",130,dt,2'-Deoxythymidine
+"Nucleic Acid, Nucleoside, or Nucleotide",137,polys,Poly A
+Occupation or Discipline,347,history,History
+Occupational Activity,260,work,Work
+Occupational Activity,281,service,Services
+Occupational Activity,284,management,Administration occupational activities
+Organ or Tissue Function,236,sensation,Esthesia
+Organic Chemical,4,ondansetron,ondansetron
+Organic Chemical,5,fluconazole,fluconazole
+Organic Chemical,11,tacrolimus,tacrolimus
+Organic Chemical,55,morphine,morphine
+Organic Chemical,58,pantoprazole,pantoprazole
+Organic Chemical,97,azathioprine,azathioprine
+Organic Chemical,118,guaiac,guaiac
+Organic Chemical,128,prednisone,prednisone
+Organic Chemical,129,rifaximin,rifaximin
+Organic Chemical,156,valganciclovir,valganciclovir
+Organic Chemical,159,lactulose,lactulose
+Organic Chemical,163,pregabalin,CI 1008
+Organic Chemical,164,oxycodone,oxycodone
+Organic Chemical,171,zofran,Zofran
+Organic Chemical,180,cb,cinobufotalin
+Organic Chemical,184,today,Today
+Organic Chemical,241,spironolactone,spironolactone
+Organic Chemical,256,heroin,heroin
+Organic Chemical,264,rise,risedronate
+Organic Chemical,290,clotrimazole,clotrimazole
+Organic Chemical,303,docusate,docusate
+Organic Chemical,305,tartrate,Tartrates
+Organic Chemical,341,dilaudid,Dilaudid
+Organic Chemical,346,cc,cholecalciferol
+Organic Chemical,362,marijuana,Marihuana
+Organism Attribute,87,able,Ability
+Organism Attribute,157,temperature,Body Temperature
+Organism Function,80,eating,Eating
+Organism Function,166,movement,Movement
+Organism Function,187,vision,Vision
+Organism Function,285,sleep,Sleep
+Organization,26,un,United Nations
+Pathologic Function,109,autoimmune,Autoimmune reaction
+Pathologic Function,154,congestion,Congestion
+Pathologic Function,177,edema,Edema
+Pathologic Function,213,peritonitis,Peritonitis
+Pathologic Function,214,distension,Pathological Dilatation
+Pathologic Function,265,dilatation,Aneurysm
+Pathologic Function,294,proliferation,Proliferation (morphologic abnormality)
+Pathologic Function,302,embolic,Embolism
+Patient or Disabled Group,61,outpatient,Outpatients
+Patient or Disabled Group,120,patient,Patients
+Pharmacologic Substance,132,medication,Pharmaceutical Preparations
+Pharmacologic Substance,227,prevent,PREVENT (product)
+Pharmacologic Substance,271,drug,Pharmaceutical Preparations
+Phenomenon or Process,145,decompression,"Decompression, external"
+Phenomenon or Process,330,pressure,Pressure- physical agent
+Plant,24,peanut,Arachis hypogaea
+Plant,299,drop,Glycyrrhiza
+Population Group,46,single,Unmarried person
+Population Group,174,woman,Woman
+Population Group,274,donor,Donor person
+Qualitative Concept,10,sure,Certain (qualifier value)
+Qualitative Concept,14,typical,Usual
+Qualitative Concept,22,usual,Usual
+Qualitative Concept,36,potential,Potential
+Qualitative Concept,38,cirrhotic,Cirrhotic
+Qualitative Concept,39,high,High
+Qualitative Concept,44,new,New
+Qualitative Concept,47,paternal,Paternal (qualifier)
+Qualitative Concept,52,stable,Stable status
+Qualitative Concept,67,inaccurate,Inaccurate
+Qualitative Concept,68,ductal,Ductal
+Qualitative Concept,76,specific,Specific qualifier value
+Qualitative Concept,79,heterogeneous,Heterogeneity
+Qualitative Concept,85,active,Active
+Qualitative Concept,86,intact,Intact
+Qualitative Concept,101,similar,Similarity
+Qualitative Concept,104,good,Good
+Qualitative Concept,107,Last,Last
+Qualitative Concept,179,peak,Peak level
+Qualitative Concept,208,variation,Variant
+Qualitative Concept,230,decrease,Reduced
+Qualitative Concept,298,detail,Details
+Qualitative Concept,315,nt,No treatment required for
+Qualitative Concept,326,stricture,Stenosis Morphology
+Qualitative Concept,334,status,Status
+Qualitative Concept,358,vasculature,Blood supply aspects
+Quantitative Concept,43,significant,Statistical Significance
+Quantitative Concept,53,small,Small
+Quantitative Concept,95,third,Third
+Quantitative Concept,100,common,Common (qualifier value)
+Quantitative Concept,108,first,First (number)
+Quantitative Concept,115,mom,Multiple of the median
+Quantitative Concept,149,velocity,Velocity
+Quantitative Concept,210,multiple,Numerous
+Quantitative Concept,226,inch,Inch Unit of Length
+Quantitative Concept,266,unit,Unit
+Quantitative Concept,279,amount,Quantity
+Quantitative Concept,325,dose,Dosage
+Quantitative Concept,338,measure,Measures
+Quantitative Concept,354,count,Count
+Quantitative Concept,355,range,Range
+Sign or Symptom,6,itch,Pruritus
+Sign or Symptom,17,cough,Coughing
+Sign or Symptom,64,fatigue,Fatigue
+Sign or Symptom,66,symptom,Symptoms
+Sign or Symptom,117,jaundice,Icterus
+Sign or Symptom,143,rhinorrhea,Rhinorrhea
+Sign or Symptom,144,asterixis,Asterixis
+Sign or Symptom,220,nausea,Nausea
+Sign or Symptom,234,constipation,Constipation
+Sign or Symptom,247,hematemesis,Hematemesis
+Sign or Symptom,252,chill,Chills
+Sign or Symptom,283,emesis,Vomiting
+Sign or Symptom,286,headache,Headache
+Sign or Symptom,344,fever,Fever
+Sign or Symptom,356,pruritis,Pruritus
+Sign or Symptom,363,dysuria,Dysuria
+Social Behavior,200,direction,Leadership
+Spatial Concept,3,next,Adjacent
+Spatial Concept,16,intrahepatic,intrahepatic
+Spatial Concept,21,middle,Middle
+Spatial Concept,23,focal,Focal
+Spatial Concept,34,perihepatic,Perihepatic
+Spatial Concept,50,quadrant,Quadrant
+Spatial Concept,57,extrahepatic,Extrahepatic
+Spatial Concept,83,proximal,Proximal
+Spatial Concept,84,distal,Distal (qualifier value)
+Spatial Concept,103,upper,Upper
+Spatial Concept,105,duplex,Duplex
+Spatial Concept,116,peripheral,Peripheral
+Spatial Concept,135,coil,Coils (formation)
+Spatial Concept,139,posterior,Dorsal
+Spatial Concept,178,diffuse,Diffuse
+Spatial Concept,216,home,Home environment
+Spatial Concept,243,mid,Middle
+Spatial Concept,246,position,Positioning Attribute
+Spatial Concept,258,po,Oral
+Spatial Concept,269,site,Site
+Spatial Concept,277,gauge,Gauges (qualifier value)
+Spatial Concept,287,line,Linear
+Spatial Concept,352,portion,Part
+Substance,172,air,Air (substance)
+Temporal Concept,1,initial,Initially
+Temporal Concept,20,yr,year
+Temporal Concept,30,minute,Minute of time
+Temporal Concept,31,old,Old
+Temporal Concept,54,operative,Operative
+Temporal Concept,56,episode,Episode of
+Temporal Concept,65,chronic,chronic
+Temporal Concept,69,recent,Recent
+Temporal Concept,73,systolic,Systole
+Temporal Concept,121,intermittent,Intermittent
+Temporal Concept,133,persistent,Persistent
+Temporal Concept,151,qid,Four times daily
+Temporal Concept,153,night,Night time
+Temporal Concept,170,time,Time
+Temporal Concept,189,month,Monthly (qualifier value)
+Temporal Concept,197,day,Daily
+Temporal Concept,206,morning,Morning
+Temporal Concept,223,hour,Hour
+Temporal Concept,291,week,week
+Temporal Concept,310,postop,Postoperative Period
+Temporal Concept,336,qam,Every morning
+Temporal Concept,357,course,Course
+Therapeutic or Preventive Procedure,112,ligation,Ligation
+Therapeutic or Preventive Procedure,160,transfusion,Blood Transfusion
+Therapeutic or Preventive Procedure,173,procedure,Interventional procedure
+Therapeutic or Preventive Procedure,201,drain,Drainage procedure
+Therapeutic or Preventive Procedure,231,replacement,Surgical Replantation
+Therapeutic or Preventive Procedure,263,duodenotomy,Incision of duodenum
+Therapeutic or Preventive Procedure,273,transplant,Transplantation
+Therapeutic or Preventive Procedure,297,rehab,Rehabilitation therapy
+Therapeutic or Preventive Procedure,313,laparotomy,Laparotomy
+Therapeutic or Preventive Procedure,361,incision,Surgical incisions
+Therapeutic or Preventive Procedure,368,sliding scale,sliding scale
+Tissue,15,normal,Body tissue
+Tissue,292,membrane,Tissue membrane

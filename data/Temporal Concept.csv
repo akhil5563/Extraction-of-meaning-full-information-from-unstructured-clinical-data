@@ -1,0 +1,23 @@
+,Term,Concept_Type,Seminatic_type
+0,initial,Initially,Temporal Concept
+1,yr,year,Temporal Concept
+2,minute,Minute of time,Temporal Concept
+3,old,Old,Temporal Concept
+4,operative,Operative,Temporal Concept
+5,episode,Episode of,Temporal Concept
+6,chronic,chronic,Temporal Concept
+7,recent,Recent,Temporal Concept
+8,systolic,Systole,Temporal Concept
+9,intermittent,Intermittent,Temporal Concept
+10,persistent,Persistent,Temporal Concept
+11,qid,Four times daily,Temporal Concept
+12,night,Night time,Temporal Concept
+13,time,Time,Temporal Concept
+14,month,Monthly (qualifier value),Temporal Concept
+15,day,Daily,Temporal Concept
+16,morning,Morning,Temporal Concept
+17,hour,Hour,Temporal Concept
+18,week,week,Temporal Concept
+19,postop,Postoperative Period,Temporal Concept
+20,qam,Every morning,Temporal Concept
+21,course,Course,Temporal Concept
